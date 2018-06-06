@@ -1,0 +1,4 @@
+xs   < 768px    = PHONES           ALL
+sm  >= 768px    = TABLETTES        750px
+md  >= 992px    = DESKTOP          970px
+lg  >= 1200px   = LARGE DESKTOP    1170px
